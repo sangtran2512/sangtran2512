@@ -14,9 +14,7 @@ Hi there 👋
 
 <img src="https://raw.githubusercontent.com/sangtran2512/sangtran2512/output/github-snake.svg" alt="Snake animation" />
 
-<div align="center">
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sangtran2512&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
+
 ###
 
 <div align="center">
@@ -24,6 +22,4 @@ Hi there 👋
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=216mnlfq5ayuo7dzmsvy45w2i&count=1&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
 
