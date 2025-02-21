@@ -14,8 +14,9 @@ Hi there 👋
 
 <img src="https://raw.githubusercontent.com/sangtran2512/sangtran2512/output/github-snake.svg" alt="Snake animation" />
 
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sangtran2512&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+</div>
 ###
 
 <div align="center">
