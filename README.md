@@ -1,7 +1,11 @@
-Hi there 👋
+Hi there 👋 I'm Sang from 🇻🇳
 
 # 💫 About Me:
-Currently in panic mode 💀 💀 🤯 🤯
+- 🌱 I’m currently learning **ThreeJS**
+
+- 👯 I’m looking to collaborate on **pawn, open-mp projects**
+  
+- Right now, in panic mode 💀🤯
 
 
 ## 🌐 Socials:
