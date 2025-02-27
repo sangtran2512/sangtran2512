@@ -1,7 +1,7 @@
 Hi there 👋
 
 # 💫 About Me:
-Currently in panic mode 💀 💀 
+Currently in panic mode 💀 💀 🤯 🤯
 
 
 ## 🌐 Socials:
