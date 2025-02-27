@@ -1,7 +1,7 @@
 Hi there 👋
 
 # 💫 About Me:
-🎮 Passionate about web & game development, enjoy video editing<br>🛸 Currently learning Three.js
+Currently in panic mode 💀 💀 
 
 
 ## 🌐 Socials:
