@@ -3,7 +3,7 @@ Hi there 👋 I'm Sang from 🇻🇳
 # 💫 About Me:
 - 🌱 I’m currently learning **ThreeJS**
 
-- 👯 I’m looking to collaborate on **pawn, open-mp projects**
+~~- 👯 I’m looking to collaborate on **pawn, open-mp projects** ~~
   
 - Right now, in panic mode 💀🤯
 
