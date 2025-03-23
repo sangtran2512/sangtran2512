@@ -1,7 +1,7 @@
 Hi there 👋 I'm Sang from 🇻🇳
 
 # 💫 About Me:
-- 🌱 I’m currently learning **ThreeJS**
+- 🌱 I’m currently learning **ThreeJS**, **ElectronJS**, **Rust**, **Tauri**
 
 - ~~👯 I’m looking to collaborate on **pawn, open-mp projects~~
   
